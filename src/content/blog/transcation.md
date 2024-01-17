@@ -147,7 +147,6 @@ schedule4: `r1(A)-w1(A)-r1(B)-r2(B)-w2(B)-c2-w1(B)-c1`: T1 실행 중 T2 실행
 
 어떤 스케줄이 하나의 serial 스케줄과 동일(equivalent)하다면 이 스케줄은 serializable하다.  
 
-![image](./3884bd2c-cd57-4a27-a1c2-e5637e7081c1.png)
 
 
 ### 참고

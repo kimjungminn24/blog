@@ -146,6 +146,10 @@ schedule4: `r1(A)-w1(A)-r1(B)-r2(B)-w2(B)-c2-w1(B)-c1`: T1 실행 중 T2 실행
 `Conflict serializable`한 `nonserial schedule`을 허용해 이상한 결과가 나오지 않고 , 여러 트랜잭션을 겹쳐서 실행하자 !  
 
 어떤 스케줄이 하나의 serial 스케줄과 동일(equivalent)하다면 이 스케줄은 serializable하다.  
+
+![image](./3884bd2c-cd57-4a27-a1c2-e5637e7081c1.png)
+
+
 ### 참고
 [쉬운코드-트랜잭션을 아십니까?](https://www.youtube.com/watch?v=sLJ8ypeHGlM&list=PLcXyemr8ZeoREWGhhZi5FZs6cvymjIBVe&index=14)  
 [inpa - 트랜잭션 개념 & 사용](https://inpa.tistory.com/entry/MYSQL-%F0%9F%93%9A-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98Transaction-%EC%9D%B4%EB%9E%80-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC)  

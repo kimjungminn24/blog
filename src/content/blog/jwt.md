@@ -4,7 +4,7 @@ pubDatetime: 2024-02-03T14:25:26.000Z
 full_path: "src/content/blog/jwt.md"
 description: "null"
 tags: 
-  - "null"
+  - "기타"
 ---
 
 ### TOC

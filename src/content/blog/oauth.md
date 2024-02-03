@@ -150,7 +150,7 @@ client_id=CLIENT_id
 }
 ```
 
-> 참고
+> 참고  
 https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2#client-credentials-flow  
 https://aaronparecki.com/oauth-2-simplified/#others  
 https://datatracker.ietf.org/doc/html/rfc6749  
